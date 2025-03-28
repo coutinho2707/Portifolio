@@ -2,6 +2,7 @@
 Atividade individual da matéria de Sistemas embarcados de 2025
 
 # Esquemático
+![17431212888425468133457041952315](https://github.com/user-attachments/assets/ebf88242-c4cf-4061-a32a-264d4c58ebe3)
 
 ### Componentes Principais:
 
