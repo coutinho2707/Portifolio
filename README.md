@@ -36,6 +36,13 @@ Atividade individual da matéria de Sistemas embarcados de 2025
 
 # Montagem prática 
 
+### Imagem 1
+![17431213604808436462126157225813](https://github.com/user-attachments/assets/d428cb0c-936c-46c0-a5b6-21ed8e23f54e)
+
+### Imagem 2
+
+### Iamgem 3
+
 • O regulador 7805 está posicionado no centro da protoboard, com o capacitor eletrolítico ao seu lado para filtragem.
 
 • A ponte retificadora é montada com diodos discretos.
