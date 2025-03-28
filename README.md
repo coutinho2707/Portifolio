@@ -40,8 +40,10 @@ Atividade individual da matéria de Sistemas embarcados de 2025
 ![17431213604808436462126157225813](https://github.com/user-attachments/assets/d428cb0c-936c-46c0-a5b6-21ed8e23f54e)
 
 ### Imagem 2
+![modelo_pratico2](https://github.com/user-attachments/assets/e36a06b7-9fd2-4170-b7bc-e72aec55ae7b)
 
 ### Iamgem 3
+![modelo_pratico3](https://github.com/user-attachments/assets/9e846616-16a6-4307-81d2-e81ae317a214)
 
 • O regulador 7805 está posicionado no centro da protoboard, com o capacitor eletrolítico ao seu lado para filtragem.
 
@@ -56,6 +58,7 @@ Atividade individual da matéria de Sistemas embarcados de 2025
 Na segunda imagem, um multímetro digital está sendo utilizado para medir a tensão de saída do circuito. O visor mostra 4.99V. Já na segunda imagem, O visor mostra 9.83V, porém está incorreto de deveria marcar 12.00V no regulador testado.
 
 # PCB
+![modelo_pcb](https://github.com/user-attachments/assets/aed163bd-fa3c-4700-8d5f-0fa3a7c1ae20)
 
 ### Componentes Identificados:
 
@@ -84,6 +87,7 @@ Na segunda imagem, um multímetro digital está sendo utilizado para medir a ten
 # Visualização 3D do PCB
 
 ### Imagem 1:
+![modelo_3D](https://github.com/user-attachments/assets/1f1a32a4-6a90-4bd3-9482-bbca36c9de75)
 
 A primeira imagem exibe a montagem dos componentes no PCB:
 
@@ -100,5 +104,6 @@ A primeira imagem exibe a montagem dos componentes no PCB:
 • A placa mede 50mm x 30mm, conforme indicado nas dimensões.
 
 ### Imagem 2
+![modelo_3D2](https://github.com/user-attachments/assets/d251649e-6c79-48ed-a046-f083796182df)
 
 A segunda imagem mostra a parte traseira da PCB, onde estão as trilhas condutoras
