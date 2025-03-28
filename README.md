@@ -62,27 +62,31 @@ Na segunda imagem, um multímetro digital está sendo utilizado para medir a ten
 
 ### Componentes Identificados:
 
-• J2 – Conector de entrada de energia ou sinal.
+• J2: Conector de entrada de energia ou sinal, com dois pinos.
 
-• BR1 – Ponte retificadora, usada para converter corrente alternada (AC) em corrente contínua (DC).
+• U1: Circuito integrado com três pinos, possivelmente um regulador de tensão ou outro componente ativo.
 
-• C1, C2, C3 – Capacitores, provavelmente para filtragem e estabilização da tensão.
+• D1: Diodo, com identificação dos terminais ânodo (A) e cátodo (K).
 
-• U1 – Possível regulador de tensão ou microcontrolador.
+• BR1: Ponte retificadora, usada para converter corrente alternada (AC) em corrente contínua (DC).
 
-• L1 – Indutor, possivelmente para um circuito de filtragem ou conversor DC-DC.
+• AC1, AC2: Terminais para conexão de corrente alternada.
 
-• R1 – Resistor de 30mm de comprimento, pode estar limitando corrente em um circuito específico.
+• C1, C2, C3: Capacitores eletrolíticos, com polaridade indicada (+).
 
-### Especificações:
+• R1: Resistor com terminais 1 e 11.
+Características do Layout:
 
-• Camadas: Single-layer (apenas trilhas na parte inferior).
+• Dimensões: A placa tem 50mm de largura e 30mm de altura.
 
-• Trilhas: Representadas em azul, interconectando os componentes.
+• Camadas: Camada única (apenas trilhas na parte inferior).
 
-• Furos e Pads: Em roxo, onde os componentes serão soldados.
+• Trilhas: Representadas em azul, interligando os componentes.
+Furos e Pads: Em roxo, onde os componentes serão soldados.
 
-• Bordas da Placa: Delimitadas pelas linhas amarelas.
+• Bordas da Placa: Delimitadas pelas linhas ciano.
+
+• Grade: Grade de pontos preta para auxiliar no posicionamento dos componentes.
 
 # Visualização 3D do PCB
 
